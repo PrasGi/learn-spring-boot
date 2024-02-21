@@ -6,7 +6,6 @@ import org.junit.jupiter.api.Test;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
-import prasetyoputrapratama.spring.DependencyInjectionConfiguration;
 import prasetyoputrapratama.spring.core.data.Bar;
 import prasetyoputrapratama.spring.core.data.Foo;
 import prasetyoputrapratama.spring.core.data.FooBar;

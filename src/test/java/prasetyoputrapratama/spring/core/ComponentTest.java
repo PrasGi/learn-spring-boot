@@ -1,4 +1,4 @@
-package prasetyoputrapratama.spring;
+package prasetyoputrapratama.spring.core;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
@@ -7,7 +7,6 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
-import prasetyoputrapratama.spring.core.ComponentConfiguration;
 import prasetyoputrapratama.spring.core.repository.ProductRepository;
 import prasetyoputrapratama.spring.core.services.ProductService;
 

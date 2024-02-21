@@ -7,7 +7,9 @@ import org.springframework.context.annotation.Configuration;
 @ComponentScan(basePackages = {
     "prasetyoputrapratama.spring.core.repository",
     "prasetyoputrapratama.spring.core.services",
+    "prasetyoputrapratama.spring.core.configuration",
 })
+
 public class ComponentConfiguration {
     
 }

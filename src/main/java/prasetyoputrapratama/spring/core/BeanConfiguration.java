@@ -4,7 +4,6 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 import lombok.extern.slf4j.Slf4j;
-import prasetyoputrapratama.spring.core.data.Bar;
 import prasetyoputrapratama.spring.core.data.Foo;
 
 @Slf4j
